@@ -1,13 +1,13 @@
 #-------------------------------
 # General Site Settings
 
-title: ALTOGELIS
+title: AlToGeLiS
 logo:
 author:
-description: Consortium for Algebra, Geometry, Topology and Life Sciences
-email: steve.fruits@email.com
-phone: +880 2544 658 256
-address: 125/A, CA Commercial Area, California, USA
+description: Consortium for Algebra, Geometry, Topology in Life Sciences
+email: do_we_have_an_email@altogelis.com
+# phone: +880 2544 658 256
+# address: 125/A, CA Commercial Area, California, USA
 copyright: # Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
 
 menu:
@@ -39,7 +39,7 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: ALTOGELIS  <br> revealing structures of data with algebra, topology, and geometry
+  hero-title: AlToGeLiS <br> revealing structures of data with algebra, topology, and geometry
 
 
 social:
@@ -90,41 +90,49 @@ work-process:
 
 # My Team Section
 team:
-  - title : "Jack Schenziwe"
+  - title : "Marie-Charlotte Brandenburg"
     image : "assets/images/team/member-1.png"
-    designation : "MIT <br> Algebra <br> <a href='//google.com'> jacks-website.com </a>"
+    designation : "MIT <br> Combinatorics <br> <a href='//mariebrandenburg.github.io/'>  personal webpage</a>"
 
-  - title : "Julias Carlie"
+  - title : "Stefania Ebli"
     image : "assets/images/team/member-2.png"
-    designation : "KTH <br> Geometry"
+    designation : "EPFL <br> Topological Data Analysis <br> <a href='//www.epfl.ch/labs/hessbellwald-lab/members/stefania-ebli/'>  personal webpage</a>"
 
-  - title : "John Doe"
+  - title : "Oliver Gäfvert"
     image : "assets/images/team/member-3.png"
-    designation : "EPFL <br> Topology"
+    designation : "University of Oxford <br> Data Science <br> <a href='//www.maths.ox.ac.uk/people/oliver.gafvert'>  personal webpage</a>"
 
-  - title : "Jack Schenziwe"
+  - title : "Gillian Grindstaff"
     image : "assets/images/team/member-1.png"
-    designation : "Oxford <br> Algebra"
+    designation : "University of Oxford <br> Geometric and Topological Data Analysis <br> <a href='//www.maths.ox.ac.uk/people/gillian.grindstaff'>  personal webpage</a>"
 
-  - title : "Julias Carlie"
+  - title : "Lukas Gustafsson"
     image : "assets/images/team/member-2.png"
-    designation : "MPI <br> Geometry"
+    designation : "KTH <br> Applied Algebraic Geometry <br> <a href='//sites.google.com/view/lukasgustafsson/startsida'>  personal webpage</a>"
 
-  - title : "John Doe"
+  - title : "Celia Hacker"
     image : "assets/images/team/member-3.png"
-    designation : "EPFL <br> Topology"
+    designation : "EPFL <br> Algebraic Topology <br> <a href='//www.epfl.ch/labs/hessbellwald-lab/members/celia-hacker/'>  personal webpage</a>"
 
-  - title : "Jack Schenziwe"
+  - title : "Chiara Meroni"
     image : "assets/images/team/member-1.png"
-    designation : "MIT <br> Algebra"
+    designation : "MPI MiS <br> Convex Algebraic Geometry <br> <a href='//merochia.wixsite.com/chiara-meroni'>  personal webpage</a>"
 
-  - title : "Julias Carlie"
+  - title : "Anna-Laura Sattelberger"
     image : "assets/images/team/member-2.png"
-    designation : "KTH <br> Geometry"
+    designation : "MPI MiS <br> Applied Algebraic Analysis <br> <a href='//alsattelberger.de/'>  personal webpage</a>"
 
-  - title : "John Doe"
+  - title : "Anna Seigal"
     image : "assets/images/team/member-3.png"
-    designation : "EPFL <br> Topology"
+    designation : "Harvard University <br> Algebraic Statistics <br> <a href='//people.math.harvard.edu/~aseigal/'>  personal webpage</a>"
+
+  - title : "Neriman Tokcan"
+    image : "assets/images/team/member-3.png"
+    designation : "Broad Institute of MIT and Harvard <br> Data Analysis <br> <a href='//nerimantokcan.com/'>  personal webpage</a>"
+
+  - title : "Francesca Tombari"
+    image : "assets/images/team/member-3.png"
+    designation : "KTH <br> Topological Data Analysis <br> <a href='//www.kth.se/profile/tombari'>  personal webpage</a>"
 
 
 #-------------------------------
@@ -223,27 +231,27 @@ portfolio-label:
 
 portfolio-items:
   - image : "assets/images/portfolio/institutions/logo-epfl.png"
-    url: "#"
+    url: "https://www.epfl.ch/en/"
     portfolio-type:
      - type: "institution"
 
   - image : "assets/images/portfolio/institutions/logo-kth.png"
-    url: "#"
+    url: "https://www.kth.se/en"
     portfolio-type:
       - type: "institution"
 
   - image : "assets/images/portfolio/institutions/logo-mit.png"
-    url: "#"
+    url: "https://www.mit.edu/"
     portfolio-type:
       - type: "institution"
 
   - image : "assets/images/portfolio/institutions/logo-mpi.png"
-    url: "MPI.html"
+    url: "https://www.mis.mpg.de/"
     portfolio-type:
       - type: "institution"
 
   - image : "assets/images/portfolio/institutions/logo-oxford.png"
-    url: "#"
+    url: "https://www.ox.ac.uk/"
     portfolio-type:
       - type: "institution"
 
@@ -333,4 +341,4 @@ client-slider-items:
 # Contact Section
 
 contact-title: Write to us!
-contact-email: steve.fruits@email.com
+contact-email: do_we_have_an_email@altogelis.com
