@@ -13,7 +13,7 @@ copyright: # Copyright &copy; 2020 Designed by [Themefisher](https://themefisher
 menu:
 - {name: About, link: '/about'}
 - {name: Seminar, link: '/blog'}
-- {name: Projects, link: '/portfolio'}
+- {name: Research, link: '/portfolio'}
 - {name: Team, link: '/team'}
 - {name: Contact, link: '/contact'}
 
@@ -54,8 +54,8 @@ social:
 
 # About Section
 blurb:
-  This is a short description on what is altogelis about.
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  AlToGeLiS is an acronym for Algebra, Topology and Geometry in the Life Sciences.
+  It is a consortium with the ultimate goal of giving more visibility to the nonlinear math of data in life sciences.
 
 blurb-btn-link: '/about'
 blurb-btn-name: find out more
@@ -103,7 +103,7 @@ team:
     designation : "University of Oxford <br> Data Science <br> <a href='//www.maths.ox.ac.uk/people/oliver.gafvert'>  personal webpage</a>"
 
   - title : "Gillian Grindstaff"
-    image : "assets/images/team/member-1.png"
+    image : "assets/images/team/gillian.jpg"
     designation : "University of Oxford <br> Geometric and Topological Data Analysis <br> <a href='//www.maths.ox.ac.uk/people/gillian.grindstaff'>  personal webpage</a>"
 
   - title : "Lukas Gustafsson"
@@ -120,11 +120,11 @@ team:
 
   - title : "Anna-Laura Sattelberger"
     image : "assets/images/team/anna-laura.jpg"
-    designation : "MPI MiS <br> Applied Algebraic Analysis <br> <a href='//alsattelberger.de/'>  personal webpage</a>"
+    designation : "MPI MiS <br> Applied Algebraic Analysis and Topological Data Analysis <br> <a href='//alsattelberger.de/'>  personal webpage</a>"
 
   - title : "Anna Seigal"
-    image : "assets/images/team/member-3.png"
-    designation : "Harvard University <br> Algebraic Statistics <br> <a href='//people.math.harvard.edu/~aseigal/'>  personal webpage</a>"
+    image : "assets/images/team/anna.jpeg"
+    designation : "Harvard University <br> Applied Algebra <br> <a href='//people.math.harvard.edu/~aseigal/'>  personal webpage</a>"
 
   - title : "Neriman Tokcan"
     image : "assets/images/team/neriman.png"
@@ -246,7 +246,7 @@ portfolio-items:
       - type: "institution"
 
   - image : "assets/images/portfolio/institutions/logo-mpi.png"
-    url: "https://www.mis.mpg.de/"
+    url: '/MPI'  #"https://www.mis.mpg.de/"
     portfolio-type:
       - type: "institution"
 

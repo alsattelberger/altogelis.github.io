@@ -6,19 +6,9 @@ image: # assets/images/about/author.jpg
 signature: # assets/images/about/signature.png
 ---
 
-This is a longer description on what altogelis is about.
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-commodo consequat.
+The AlToGeLiS consortium aims to reveal the structures of data with algebra, topology, and geometry. These techniques can be used to investigate many applications in the life sciences, and to improve the classical approach of linear algebra. We want to connect the community that works in this field and strengthen collaborations. The five institutes that are the core of this consortium are EPFL, with Kathryn Hess' research group, KTH, with Sandra di Rocco's research group, MIT, with Caroline Uhler's research group, MPI MiS, with Bernd Sturmfels' research group, and University of Oxford, with Heather Harrington's research group.
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident.
-
-Deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia.
-
-Here is an inline math command
+Here is how to add math
 \\( c = \pm\sqrt{a^2 + b^2} \\) in the middle of a sentence.
 
 display math

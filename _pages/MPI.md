@@ -3,9 +3,8 @@ layout: page
 title: MPI
 ---
 
-this is a page about MPI
-vndkfnv;ekfmv
-b.jfnvlskfmv.a
-g;sefmv.slfmv.flv   
+This is a page about MPI
 
-rkfmlmlk
+ - introduce the institute
+
+ - introduce the group and its members that are going to take actively part in AlToGeLiS
