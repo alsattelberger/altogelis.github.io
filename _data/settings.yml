@@ -95,7 +95,7 @@ team:
     designation : "MIT <br> Combinatorics <br> <a href='//mariebrandenburg.github.io/'>  personal webpage</a>"
 
   - title : "Stefania Ebli"
-    image : "assets/images/team/member-2.png"
+    image : "assets/images/team/stefania.jpeg"
     designation : "EPFL <br> Topological Data Analysis <br> <a href='//www.epfl.ch/labs/hessbellwald-lab/members/stefania-ebli/'>  personal webpage</a>"
 
   - title : "Oliver Gäfvert"
@@ -115,11 +115,11 @@ team:
     designation : "EPFL <br> Algebraic Topology <br> <a href='//www.epfl.ch/labs/hessbellwald-lab/members/celia-hacker/'>  personal webpage</a>"
 
   - title : "Chiara Meroni"
-    image : "assets/images/team/member-1.png"
+    image : "assets/images/team/chiara.jpg"
     designation : "MPI MiS <br> Convex Algebraic Geometry <br> <a href='//merochia.wixsite.com/chiara-meroni'>  personal webpage</a>"
 
   - title : "Anna-Laura Sattelberger"
-    image : "assets/images/team/member-2.png"
+    image : "assets/images/team/anna-laura.jpg"
     designation : "MPI MiS <br> Applied Algebraic Analysis <br> <a href='//alsattelberger.de/'>  personal webpage</a>"
 
   - title : "Anna Seigal"
@@ -127,7 +127,7 @@ team:
     designation : "Harvard University <br> Algebraic Statistics <br> <a href='//people.math.harvard.edu/~aseigal/'>  personal webpage</a>"
 
   - title : "Neriman Tokcan"
-    image : "assets/images/team/member-3.png"
+    image : "assets/images/team/neriman.png"
     designation : "Broad Institute of MIT and Harvard <br> Data Analysis <br> <a href='//nerimantokcan.com/'>  personal webpage</a>"
 
   - title : "Francesca Tombari"
