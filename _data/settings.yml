@@ -99,7 +99,7 @@ team:
     designation : "EPFL <br> Topological Data Analysis <br> <a href='//www.epfl.ch/labs/hessbellwald-lab/members/stefania-ebli/'>  personal webpage</a>"
 
   - title : "Oliver Gäfvert"
-    image : "assets/images/team/member-3.png"
+    image : "assets/images/team/oliver.jpg"
     designation : "University of Oxford <br> Data Science <br> <a href='//www.maths.ox.ac.uk/people/oliver.gafvert'>  personal webpage</a>"
 
   - title : "Gillian Grindstaff"
@@ -111,7 +111,7 @@ team:
     designation : "KTH <br> Applied Algebraic Geometry <br> <a href='//sites.google.com/view/lukasgustafsson/startsida'>  personal webpage</a>"
 
   - title : "Celia Hacker"
-    image : "assets/images/team/member-3.png"
+    image : "assets/images/team/celia.png"
     designation : "EPFL <br> Algebraic Topology <br> <a href='//www.epfl.ch/labs/hessbellwald-lab/members/celia-hacker/'>  personal webpage</a>"
 
   - title : "Chiara Meroni"
