@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Max Planck Institute for Mathematics in the Sciences
+title: University of Oxford
 ---
 
-This is a page about MPI
+This is a page about the University of Oxford
 
 1:  introduce the institute
 

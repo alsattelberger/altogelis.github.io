@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Max Planck Institute for Mathematics in the Sciences
+title: MIT
 ---
 
-This is a page about MPI
+This is a page about MIT
 
 1:  introduce the institute
 

@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Max Planck Institute for Mathematics in the Sciences
+title: KTH
 ---
 
-This is a page about MPI
+This is a page about KTH
 
 1:  introduce the institute
 

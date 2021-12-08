@@ -91,7 +91,7 @@ work-process:
 # My Team Section
 team:
   - title : "Marie-Charlotte Brandenburg"
-    image : "assets/images/team/member-1.png"
+    image : "assets/images/team/marie.jpg"
     designation : "MIT <br> Combinatorics <br> <a href='//mariebrandenburg.github.io/'>  personal webpage</a>"
 
   - title : "Stefania Ebli"
@@ -107,7 +107,7 @@ team:
     designation : "University of Oxford <br> Geometric and Topological Data Analysis <br> <a href='//www.maths.ox.ac.uk/people/gillian.grindstaff'>  personal webpage</a>"
 
   - title : "Lukas Gustafsson"
-    image : "assets/images/team/member-2.png"
+    image : "assets/images/team/lukas.png"
     designation : "KTH <br> Applied Algebraic Geometry <br> <a href='//sites.google.com/view/lukasgustafsson/startsida'>  personal webpage</a>"
 
   - title : "Celia Hacker"
@@ -231,17 +231,17 @@ portfolio-label:
 
 portfolio-items:
   - image : "assets/images/portfolio/institutions/logo-epfl.png"
-    url: "https://www.epfl.ch/en/"
+    url: '/EPFL'  #"https://www.epfl.ch/en/"
     portfolio-type:
      - type: "institution"
 
   - image : "assets/images/portfolio/institutions/logo-kth.png"
-    url: "https://www.kth.se/en"
+    url: '/KTH'  #"https://www.kth.se/en"
     portfolio-type:
       - type: "institution"
 
   - image : "assets/images/portfolio/institutions/logo-mit.png"
-    url: "https://www.mit.edu/"
+    url: '/MIT'  #"https://www.mit.edu/"
     portfolio-type:
       - type: "institution"
 
@@ -251,7 +251,7 @@ portfolio-items:
       - type: "institution"
 
   - image : "assets/images/portfolio/institutions/logo-oxford.png"
-    url: "https://www.ox.ac.uk/"
+    url: '/Oxford'  #"https://www.ox.ac.uk/"
     portfolio-type:
       - type: "institution"
 
