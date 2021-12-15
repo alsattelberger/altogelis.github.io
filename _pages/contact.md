@@ -4,4 +4,4 @@ title: Contacts
 ---
 
 
-{% include contact-section.html %}
+Contact: anna-laura.sattelberger (at) mis.mpg.de
